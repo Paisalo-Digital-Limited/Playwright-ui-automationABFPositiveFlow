@@ -1,0 +1,187 @@
+{
+  "cookies": [
+    {
+      "name": "mpin_enabled",
+      "value": "true",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1795091137,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mpin_user_id",
+      "value": "186",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1795091137,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+      "value": "U2FsdGVkX1%2B2mijOu%2FjVz0GPuRBnj6C4TI%2FK264S0iQ%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "c17f19632b45a636c7d2600fd90d755b6ba8941a5ea9a370b8b007d72d20c320",
+      "value": "U2FsdGVkX19RmkVWdgp%2F3WkYZNZNiKHDG%2BIbR8dbIxM%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "b27ccc592502dd9d232092c604fa222a00546ec154e65d14c6ddb89a11879c3f",
+      "value": "U2FsdGVkX1%2By%2FGgWAgKKhd0jJQEdJYChjgQrrqetWOjYWnKJcFpyH5XBeE%2BfTHX3Zgq%2Bmnwbvy%2BcLFS0Lwon6VARASnwv1477xT%2BxOXeMKmXtmycMXNvdf%2BNKwT3aEsIBHPSvJByHiJvdNXV81xrLE%2BT8Q9LhCnVBYjppFhGtdOEx1F%2B48ACLZHnTXmjJWjXGX7G4FdlRI5%2FpO1HXAhINN0W2urk7jpk2dA3WMbCHnV%2Bi6OmUJeWWlNzpZ72Q%2BJiQ%2BSMhNManzKYN6m6zVYglG40r3s7dFh3FLwH3gLWUS6mE%2BzODJjT2vpmHc5m8tSvKcct6GaNudfG5lUuIz%2FWd9yCzh1g1%2Blv4KFxTeg0hkb8LNF31%2BNkcUkPZuyBTIk7pP1WGZ7%2BWB2x982YkXOy35e2bJwxc291%2F40rBPdoSwgEc9K8kHIeIm901dXzXGssT5PxD0uEKdUFiOmkWEa104THUX7jwAItkedNeaMlaNeCeB%2BbrsMN4TchkwokguRTWktVdNTQYeAGNYWR8SF14Sj%2B5%2F4WxFImYPwLJ%2FITHfe%2F1ftWZ%2FSMb50y8NMKDA4NJ9vCdl2w3g5wAqnq5Fi9hFKwomBqvrJDY%2BbXp0pzMt5p9aid23Ss00aC8olJipjHWarqaqDXyKtjlvEf3c7BQNCiRky11ZAa3IN9HQhwo9yR2Ov%2BOAXmz12Er516VRVaJljhPYi17THAiQ5PcBwGMtq2unPLupxDSFgrbUoJJAAwH1kVDH2kO%2Bg5kuMb4t3MXtTr4vbrhl2YcSAENZsn27KHrT7Gl9KceU12BRSa8fKHClJ44g8uhZaj7HWNTVxLC1QlWA0v0TNDIOzgYlspnLJm4B8%2BZ5x9sCSDhfaxlxY%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e1eae9e373ba62a80cdbd4422fc002553447aeb38fdb8dbf511a52d3e8c5e417",
+      "value": "U2FsdGVkX182fhWjRf2Q0VgpaTlGzZ5EjotqsUzMAsAnwGtdjY385o8305RnjzHtJY71%2FceozshafktHNwc2KothC6BUbyYQOBNYwkv3BweA6ypx6G8RTuun%2F59O47t01cLFS0tiaA%2FX5BR8RAJBDA%3D%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "20c55b5b17e896f6e08450803c010949b3eccffe605575c64cba0aa13622bd05",
+      "value": "U2FsdGVkX1%2B9otvm4QZaH9tZQAJ8jZhS0Xy%2BEL7A6Lw%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fb4e67e9fdc97adf435cd51d7c2c13ff03b616a544ece6bdf0cb2b22a9d70515",
+      "value": "U2FsdGVkX18IU%2BrPOzW6FQDR2ly1%2BmX0AEyz1DtxMk8%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "63ee7d7dae8cde6d76acea89ebbbd53fbcd182337d699924679249c193bd2477",
+      "value": "U2FsdGVkX1%2F1e6k1sIftwJUlzoPoLA5Rn4Vjz9qEyVY%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e49c330d257d3e0c772df25cec7abe50bdac558000a93955875ccf9afce9f407",
+      "value": "U2FsdGVkX18qWUgyFPFlhSohkvw%2B6qsBnh0BE2uix04%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f36fb635fc3e88fad4e86f7a8ad0b30c42c6481ca79178c9b5490276a5ad7abf",
+      "value": "U2FsdGVkX1%2FeEcsIJtVJRv3E6IaRKl0Ggo%2FvdeXXw%2FQ%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ad26364e1b59c284c36ccb5b8ee3ce0beff5f64d7b94663bbb64c12e7ed9057e",
+      "value": "U2FsdGVkX1%2BUKxHNBTg7axEnXaEh%2Bhr9h5pKW8fLERs%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f2983bf72e26f6f23d6e77c2b8501a7502da44d0a2002cc4c5b9b1551d44a91f",
+      "value": "U2FsdGVkX1%2FFrE0FRuRcV7VfUoNsSqbj%2Fsd6Dn07fEQ%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "8c60886f041b4dea9a78238f3086494d3722c5b05b7bf56e0fff40ef16799277",
+      "value": "U2FsdGVkX1%2B%2Fn9xoA0qotb9TpC%2BkRCHb%2B8Rjmb3IiM8%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "073c1634c496cdb649d1afe0a312bbb4b7e1741b271542e4a436c3b8824b1761",
+      "value": "U2FsdGVkX1%2FH3%2Bb09IAcHYp8ss%2BUlfgbV6dnDXryT1k%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e3b89e9d33f88e523083d8b4436adcc3726c89e97fd3179a2e102d765d1b16ed",
+      "value": "U2FsdGVkX18%2FPve9aqqwYwdUxDMPWxrn8sRR1ZCym26CPfq8uWmv0HgrWQHXxkMd",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793103937,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://api.paisalo.net",
+      "localStorage": [
+        {
+          "name": "LAST_PATH",
+          "value": "{\"value\":\"/hrms/EmpAttendence\",\"expiry\":1792499258650}"
+        },
+        {
+          "name": "cookiesAccepted",
+          "value": "true"
+        },
+        {
+          "name": "otpExpireTime",
+          "value": "1792499196275"
+        },
+        {
+          "name": "menuItems",
+          "value": "[{\"id\":1,\"roleId\":0,\"pageMasterId\":1,\"parentId\":0,\"userid\":1,\"title\":\"Dashboard\",\"icon\":\"LayoutDashboard\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/1/PDLpage_9178fb97-7511-4050-887a-f62160b61268.pdf\"},{\"id\":3,\"roleId\":0,\"pageMasterId\":3,\"parentId\":0,\"userid\":1,\"title\":\"HRMS\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/3/PDLpage_0bc6d9d1-a7c1-4b04-8c87-b6cb661369ac.mp4\"},{\"id\":1025,\"roleId\":0,\"pageMasterId\":1025,\"parentId\":0,\"userid\":1,\"title\":\"Management\",\"icon\":\"Box\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2014,\"roleId\":0,\"pageMasterId\":2014,\"parentId\":1,\"userid\":1,\"title\":\"All Reports\",\"icon\":\"FileText\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":5,\"roleId\":0,\"pageMasterId\":5,\"parentId\":1,\"userid\":1,\"title\":\"Masters\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2218,\"roleId\":0,\"pageMasterId\":2218,\"parentId\":3,\"userid\":1,\"title\":\"Analytics\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2140,\"roleId\":0,\"pageMasterId\":2140,\"parentId\":3,\"userid\":1,\"title\":\"Attendence\",\"icon\":\"Calendar\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2038,\"roleId\":0,\"pageMasterId\":2038,\"parentId\":3,\"userid\":1,\"title\":\"Career \",\"icon\":\"Briefcase\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2251,\"roleId\":0,\"pageMasterId\":2251,\"parentId\":3,\"userid\":1,\"title\":\"Communication\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2121,\"roleId\":0,\"pageMasterId\":2121,\"parentId\":3,\"userid\":1,\"title\":\"Employee\",\"icon\":\"UserCogIcon\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2183,\"roleId\":0,\"pageMasterId\":2183,\"parentId\":3,\"userid\":1,\"title\":\"Exit Process\",\"icon\":\"UserMinus\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2153,\"roleId\":0,\"pageMasterId\":2153,\"parentId\":3,\"userid\":1,\"title\":\"Improvement Plan\",\"icon\":\"UserMinus2\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2148,\"roleId\":0,\"pageMasterId\":2148,\"parentId\":3,\"userid\":1,\"title\":\"Leave Management\",\"icon\":\"AlertCircle\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2227,\"roleId\":0,\"pageMasterId\":2227,\"parentId\":3,\"userid\":1,\"title\":\"Letters\",\"icon\":\"FileText\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2122,\"roleId\":0,\"pageMasterId\":2122,\"parentId\":3,\"userid\":1,\"title\":\"OnBoarding\",\"icon\":\"CheckCircle\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2266,\"roleId\":0,\"pageMasterId\":2266,\"parentId\":3,\"userid\":1,\"title\":\"Promotion\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2101,\"roleId\":0,\"pageMasterId\":2101,\"parentId\":3,\"userid\":1,\"title\":\"Training\",\"icon\":\"Box\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2276,\"roleId\":0,\"pageMasterId\":2276,\"parentId\":5,\"userid\":1,\"title\":\"Page Hierarchy Manager\",\"icon\":\"Target\",\"pageUrl\":\"hrms/PageManager\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2129,\"roleId\":0,\"pageMasterId\":2129,\"parentId\":5,\"userid\":1,\"title\":\"Permissions\",\"icon\":\"CreditCard\",\"pageUrl\":\"ApiEndpoints/NewPagePermissionMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":15,\"roleId\":0,\"pageMasterId\":15,\"parentId\":5,\"userid\":1,\"title\":\"Role Masters\",\"icon\":\"PenTool\",\"pageUrl\":\"master/RoleMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2030,\"roleId\":0,\"pageMasterId\":2030,\"parentId\":1025,\"userid\":1,\"title\":\"Assets Management\",\"icon\":\"Sliders\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1027,\"roleId\":0,\"pageMasterId\":1027,\"parentId\":1025,\"userid\":1,\"title\":\"Expense Management\",\"icon\":\"DollarSign\",\"pageUrl\":\"master/ExpenseManagement\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1033,\"roleId\":0,\"pageMasterId\":1033,\"parentId\":1027,\"userid\":1,\"title\":\"Approved Expenses\",\"icon\":\"DollarSign\",\"pageUrl\":\"Management/ApprovedExpense\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1028,\"roleId\":0,\"pageMasterId\":1028,\"parentId\":1027,\"userid\":1,\"title\":\"Expense Request\",\"icon\":\"DollarSign\",\"pageUrl\":\"Management/Expense\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2212,\"roleId\":0,\"pageMasterId\":2212,\"parentId\":2014,\"userid\":1,\"title\":\"User Login Report\",\"icon\":\"UserCheck\",\"pageUrl\":\"report/UserLoginLogsReport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2008,\"roleId\":0,\"pageMasterId\":2008,\"parentId\":2030,\"userid\":1,\"title\":\"Assest Details\",\"icon\":\"PieChart\",\"pageUrl\":\"management/assestdetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2009,\"roleId\":0,\"pageMasterId\":2009,\"parentId\":2030,\"userid\":1,\"title\":\"Assets Approval Admin\",\"icon\":\"History\",\"pageUrl\":\"management/assetsapprovaladmin\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2012,\"roleId\":0,\"pageMasterId\":2012,\"parentId\":2030,\"userid\":1,\"title\":\"Branch Hardware Request\",\"icon\":\"Laptop\",\"pageUrl\":\"management/branchhardwarerequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1040,\"roleId\":0,\"pageMasterId\":1040,\"parentId\":2030,\"userid\":1,\"title\":\"Courier Management\",\"icon\":\"Globe2\",\"pageUrl\":\"management/couriermanagement\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2007,\"roleId\":0,\"pageMasterId\":2007,\"parentId\":2030,\"userid\":1,\"title\":\"Evp Approval\",\"icon\":\"Briefcase\",\"pageUrl\":\"management/evpapprovals\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1039,\"roleId\":0,\"pageMasterId\":1039,\"parentId\":2030,\"userid\":1,\"title\":\"Inventory\",\"icon\":\"Truck\",\"pageUrl\":\"management/inventory\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2049,\"roleId\":0,\"pageMasterId\":2049,\"parentId\":2038,\"userid\":1,\"title\":\"Applied Resumes\",\"icon\":\"FileText\",\"pageUrl\":\"hrms/ApplicationsforRequirment\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2047,\"roleId\":0,\"pageMasterId\":2047,\"parentId\":2038,\"userid\":1,\"title\":\"Fill JD\",\"icon\":\"PenTool\",\"pageUrl\":\"hrms/FillJobDescriptions\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2039,\"roleId\":0,\"pageMasterId\":2039,\"parentId\":2038,\"userid\":1,\"title\":\"Hiring Request\",\"icon\":\"UserPlus2\",\"pageUrl\":\"hrms/HiringRequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2055,\"roleId\":0,\"pageMasterId\":2055,\"parentId\":2038,\"userid\":1,\"title\":\"Interview Remark\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/InterviewRemark\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2048,\"roleId\":0,\"pageMasterId\":2048,\"parentId\":2038,\"userid\":1,\"title\":\"Job Referrals\",\"icon\":\"Upload\",\"pageUrl\":\"hrms/JobReferrals\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2056,\"roleId\":0,\"pageMasterId\":2056,\"parentId\":2038,\"userid\":1,\"title\":\"Salary Calculator\",\"icon\":\"Calculator\",\"pageUrl\":\"hrms/SalaryCalculator\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2116,\"roleId\":0,\"pageMasterId\":2116,\"parentId\":2101,\"userid\":1,\"title\":\"Assessment Report\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/DepartmentByReport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2113,\"roleId\":0,\"pageMasterId\":2113,\"parentId\":2101,\"userid\":1,\"title\":\"Assessments\",\"icon\":\"Calendar\",\"pageUrl\":\"Hrms/Assessments\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2102,\"roleId\":0,\"pageMasterId\":2102,\"parentId\":2101,\"userid\":1,\"title\":\"Question Bank\",\"icon\":\"Home\",\"pageUrl\":\"hrms/QuestionBank\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2187,\"roleId\":0,\"pageMasterId\":2187,\"parentId\":2121,\"userid\":1,\"title\":\"AllRequestForApplied\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/AllRequestForApplied\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2156,\"roleId\":0,\"pageMasterId\":2156,\"parentId\":2121,\"userid\":1,\"title\":\"Approve Assets\",\"icon\":\"CheckCircle2\",\"pageUrl\":\"Hrms/approvaltable\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2150,\"roleId\":0,\"pageMasterId\":2150,\"parentId\":2121,\"userid\":1,\"title\":\"AssetRequestHandler\",\"icon\":\"Laptop\",\"pageUrl\":\"hrms/Asset_PreprationForm\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2077,\"roleId\":0,\"pageMasterId\":2077,\"parentId\":2121,\"userid\":1,\"title\":\"Employee View\",\"icon\":\"User\",\"pageUrl\":\"hrms/EmployeeDetailsViewData\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2155,\"roleId\":0,\"pageMasterId\":2155,\"parentId\":2121,\"userid\":1,\"title\":\"InitiatedAssets\",\"icon\":\"History\",\"pageUrl\":\"hrms/initiatedAssets\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2161,\"roleId\":0,\"pageMasterId\":2161,\"parentId\":2121,\"userid\":1,\"title\":\"ViewEmployeeAsset\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/HrAssetManagement\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2214,\"roleId\":0,\"pageMasterId\":2214,\"parentId\":2122,\"userid\":1,\"title\":\"Approve Appointment\",\"icon\":\"FileText\",\"pageUrl\":\"hrms/AppointmentApproval\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"Track the appointment requests of employees from here\",\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2123,\"roleId\":0,\"pageMasterId\":2123,\"parentId\":2122,\"userid\":1,\"title\":\"Candidate OnBoard\",\"icon\":\"Calendar\",\"pageUrl\":\"hrms/CandidateOnboarding\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2178,\"roleId\":0,\"pageMasterId\":2178,\"parentId\":2140,\"userid\":1,\"title\":\"Approvals\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/AttendenceApprovalRequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2145,\"roleId\":0,\"pageMasterId\":2145,\"parentId\":2140,\"userid\":1,\"title\":\"Department Log\",\"icon\":\"Calendar\",\"pageUrl\":\"hrms/DeptAttendence\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2200,\"roleId\":0,\"pageMasterId\":2200,\"parentId\":2140,\"userid\":1,\"title\":\"HolidayList\",\"icon\":\"FileText\",\"pageUrl\":\"hrms/UploadHolidayexcel\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":\"Manage and update all company holidays in one place.\",\"pageShortName\":\"Holiday\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2160,\"roleId\":0,\"pageMasterId\":2160,\"parentId\":2148,\"userid\":1,\"title\":\"Leave Approval\",\"icon\":\"ArrowDownCircle\",\"pageUrl\":\"Hrms/LeaveApprovalPage\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/2160/PDLpage_a72c5f74-0706-4f03-abc0-cb1e7bd77245.webm\"},{\"id\":2188,\"roleId\":0,\"pageMasterId\":2188,\"parentId\":2148,\"userid\":1,\"title\":\"Leave Shift Master\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/LeaveShiftPage\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2128,\"roleId\":0,\"pageMasterId\":2128,\"parentId\":2153,\"userid\":1,\"title\":\"PIP\",\"icon\":\"UserMinus\",\"pageUrl\":\"hrms/PIP\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2213,\"roleId\":0,\"pageMasterId\":2213,\"parentId\":2153,\"userid\":1,\"title\":\"PIP Employee\",\"icon\":\"Activity\",\"pageUrl\":\"HRMS/Employeepip\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2282,\"roleId\":0,\"pageMasterId\":2282,\"parentId\":2153,\"userid\":1,\"title\":\"PIP Tracker\",\"icon\":\"History\",\"pageUrl\":\"hrms/PIPTracker\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"PIP Tracker displays the complete PIP employee list with details, current status, filters, pagination, and an option to export the data to Excel\",\"pageShortName\":\"piptracker\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2198,\"roleId\":0,\"pageMasterId\":2198,\"parentId\":2183,\"userid\":1,\"title\":\"AllResignations\",\"icon\":\"UserMinus2\",\"pageUrl\":\"hrms/AllResignations\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":\"Track the resignation process of employees of your department\",\"pageShortName\":\"AllResignations\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2186,\"roleId\":0,\"pageMasterId\":2186,\"parentId\":2183,\"userid\":1,\"title\":\"Employee F&F\",\"icon\":\"DollarSign\",\"pageUrl\":\"exit/F&f\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":\"Employee Full and Final\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2185,\"roleId\":0,\"pageMasterId\":2185,\"parentId\":2183,\"userid\":1,\"title\":\"Exit Management\",\"icon\":\"Tag\",\"pageUrl\":\"exit/management\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2199,\"roleId\":0,\"pageMasterId\":2199,\"parentId\":2183,\"userid\":1,\"title\":\"Finance Clearance\",\"icon\":\"DollarSign\",\"pageUrl\":\"exit/FinanceClearance\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2189,\"roleId\":0,\"pageMasterId\":2189,\"parentId\":2183,\"userid\":1,\"title\":\"ITClearance\",\"icon\":\"Laptop\",\"pageUrl\":\"exit/ITClearance\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2184,\"roleId\":0,\"pageMasterId\":2184,\"parentId\":2183,\"userid\":1,\"title\":\"Requests\",\"icon\":\"UserMinus2\",\"pageUrl\":\"exit/Requests\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2219,\"roleId\":0,\"pageMasterId\":2219,\"parentId\":2218,\"userid\":1,\"title\":\"Candidate Report\",\"icon\":\"ArrowDownCircle\",\"pageUrl\":\"hrms/CandidateReports\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":\"Tracker\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2238,\"roleId\":0,\"pageMasterId\":2238,\"parentId\":2227,\"userid\":1,\"title\":\"Approve Letter of Employment\",\"icon\":\"CheckCircle\",\"pageUrl\":\"hrms/ApproveLetterofEmployment\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":\"Bulk Approve Letter of Employment\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2229,\"roleId\":0,\"pageMasterId\":2229,\"parentId\":2227,\"userid\":1,\"title\":\"Employee Increment\",\"icon\":\"TrendingUp\",\"pageUrl\":\"hrms/EmployeesIncrement\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":\"Increment Letter\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2228,\"roleId\":0,\"pageMasterId\":2228,\"parentId\":2227,\"userid\":1,\"title\":\"Generate Appointment Letter\",\"icon\":\"FileText\",\"pageUrl\":\"hrms/LettersOfEmployment\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":true,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":\"Letters Of Employment\",\"videoPath\":null,\"videoUrl\":null},{\"id\":2275,\"roleId\":0,\"pageMasterId\":2275,\"parentId\":2227,\"userid\":1,\"title\":\"Increment Approval\",\"icon\":\"Calendar\",\"pageUrl\":\"hrms/IncrementApproval\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2230,\"roleId\":0,\"pageMasterId\":2230,\"parentId\":2227,\"userid\":1,\"title\":\"Upload Salary\",\"icon\":\"Upload\",\"pageUrl\":\"hrms/salary\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2253,\"roleId\":0,\"pageMasterId\":2253,\"parentId\":2251,\"userid\":1,\"title\":\"Communication Emails\",\"icon\":\"ArrowDownCircle\",\"pageUrl\":\"hrms/UploadCommunicationEmails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2252,\"roleId\":0,\"pageMasterId\":2252,\"parentId\":2251,\"userid\":1,\"title\":\"Communication Requests\",\"icon\":\"Activity\",\"pageUrl\":\"hrms/CommunicationDashboard\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2268,\"roleId\":0,\"pageMasterId\":2268,\"parentId\":2266,\"userid\":1,\"title\":\"Employee Promotion\",\"icon\":\"UserPlus\",\"pageUrl\":\"hrms/Promotion\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2267,\"roleId\":0,\"pageMasterId\":2267,\"parentId\":2266,\"userid\":1,\"title\":\"Promotion Opening\",\"icon\":\"TrendingUp\",\"pageUrl\":\"hrms/PromotionOpening\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2281,\"roleId\":0,\"pageMasterId\":2281,\"parentId\":2266,\"userid\":1,\"title\":\"Promotion Report\",\"icon\":\"BarChart2\",\"pageUrl\":\"hrms/PromotionReport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"Promotion Tracker\",\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null}]"
+        }
+      ]
+    }
+  ]
+}

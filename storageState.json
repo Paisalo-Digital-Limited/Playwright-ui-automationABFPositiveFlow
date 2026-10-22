@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "USERSERVICEURL",
+      "value": "https%3A%2F%2Fpdluser.paisalo.in%3A9988",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FISERVICEURL",
+      "value": "https%3A%2F%2Ffi.paisalo.in%3A991",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MDSERVICEURL",
+      "value": "https%3A%2F%2Ferpservice.paisalo.in%3A980%2FPDL.MD.API",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ABFSERVICEURL",
+      "value": "https%3A%2F%2Fabf.paisalo.in%3A986",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "UCOSERVICEURL",
+      "value": "https%3A%2F%2Ferpservice.paisalo.in%3A980%2FPDL.UCO.API",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MOBILESERVICEURL",
+      "value": "https%3A%2F%2Fpdlmobile.paisalo.in%3A983",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SMSSERVICEURL",
+      "value": "https%3A%2F%2Fsms.paisalo.in%3A979",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MOBILESOURCINGURL",
+      "value": "null",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "FORUMSERVICEURL",
+      "value": "https%3A%2F%2Ferpservice.paisalo.in%3A980%2FPDL.Forums.API",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ESIGNSERVICEURL",
+      "value": "null",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "INSURANCESERVICEURL",
+      "value": "null",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ESIGNMUDRASERVICEURL",
+      "value": "null",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ICICIBASEURL",
+      "value": "https%3A%2F%2Ferpservice.paisalo.in%3A980%2FPDL.UserService.Api",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SEILDOCBASEURL",
+      "value": "https%3A%2F%2Fbc.paisalo.in%3A987%2FPdlSeilDocs",
+      "domain": "erp.paisalo.in",
+      "path": "/",
+      "expires": 1749807266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

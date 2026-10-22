@@ -1,0 +1,167 @@
+{
+  "cookies": [
+    {
+      "name": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+      "value": "U2FsdGVkX1%2F9IFf%2F3Zr3GtJdTFGcneWBMrbRUpZ56shgFB%2Fkyyjm5Pqlbge6ElA7",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "c17f19632b45a636c7d2600fd90d755b6ba8941a5ea9a370b8b007d72d20c320",
+      "value": "U2FsdGVkX18ruN4e%2FKXjtjLWas7UFL%2FF0bfzBC2ZQ8w%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "b27ccc592502dd9d232092c604fa222a00546ec154e65d14c6ddb89a11879c3f",
+      "value": "U2FsdGVkX18Wgkb%2BfpwUl8TAJIMrgZi%2FCFQSNWOIJcF0HQsX8ev%2BOYlwoWTo9ek9GZbdgKBM2fJuKxcC%2FceG2IM%2BS%2Fevpx9G4tQGu7sWQZGVXoH21cIkHdwtgLZQE9Yw1nrURJe8HIo40eDFMckOKCR%2BR%2FRXLnW106x3uYQ1OoRnFErWeV40ycRGa%2Fe7r2HuB6vIxaZ80e%2F6TnynQw0Btc5TgMudDxBHIrWtHbO8OFLJDbi8CJH7fmhBeA0bwNd82hrMejCoMkUghQZ%2BlMNMk7YnxyGxlOyNeNF0dHEtLuxff8avoDGNs1Fwa38%2FCqHf%2B4WhbERnxM08dkwubQ0ebXFSYAi1UwZh4JSza423QwidMIeZfstf3TN4E7McL8cD90YJmBpIO%2FfrbYRN%2FAngf%2F8NUAqbkRTuCBiMa2LKlLaVXoH21cIkHdwtgLZQE9Yw1nrURJe8HIo40eDFMckOKCR%2BR%2FRXLnW106x3uYQ1OoRnFErWeV40ycRGa%2Fe7r2HuRwHBY7OPLu%2Bw5TlNeBWLZUxwgcP6iPKXur0WwQHBmaxspLWEwHJWcorH%2Ba8Fn3xy8ui3xgUO79bMiF%2BiFiNhovjwyENB0WfmgwDrM8Vt4fVcDQg9ojaJX6QICbSoInGhzYzG2KP6YtSev%2BogO6Pz%2FuDP2BBJDI3%2F03GCYVNX%2FNOSiU1D1Z1mJ2M1AcdqTM%2FCNhlkWvA3utP7TuRjeWn02jScBUdS1niqDsOmDbl%2BNAQCa9RRG3guk8D%2FOR8sJYMzlDbTq%2B7q5KDdQoFfSGsVhVXuZXQMX9X%2FO%2FZd3GsoREXoFV90CcLhZEQfjHrDyZyU5ozXT5nYBeMKQ68PKRCHeOiPMHrgQRMtNgfb3Yh5zXjsTI359h2MxtzDv3XQ3m%2Fm",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e1eae9e373ba62a80cdbd4422fc002553447aeb38fdb8dbf511a52d3e8c5e417",
+      "value": "U2FsdGVkX1%2FoNcCI0%2FVdxWxJW4j032Orrc2OV3otxnBm6V7SLRIpdmUboEdYX%2ByPsvWkRbUcDTxWnqUQGNINhnggDMYXUKv7h5l58bKcvI06Vj%2B5LId4IF5k2g4fTqw5Beo2b2chTZFp0zRScZQVVQ%3D%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "20c55b5b17e896f6e08450803c010949b3eccffe605575c64cba0aa13622bd05",
+      "value": "U2FsdGVkX189TWmCyT2irHTNvOaAov1fHWAkJPyg4hE%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fb4e67e9fdc97adf435cd51d7c2c13ff03b616a544ece6bdf0cb2b22a9d70515",
+      "value": "U2FsdGVkX189czFXfV9meDuk2GzhL1pV0Gxefvnc8O4%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "63ee7d7dae8cde6d76acea89ebbbd53fbcd182337d699924679249c193bd2477",
+      "value": "U2FsdGVkX19L2TrSq544AzmKeIHOwNhdyUNijVgvNcI%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e49c330d257d3e0c772df25cec7abe50bdac558000a93955875ccf9afce9f407",
+      "value": "U2FsdGVkX1%2Fe9Sz71s2FjwvH5ln15NPh4w8MVdxkVi8FHKRPhSFYNvhoWO6u%2BWsf",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f36fb635fc3e88fad4e86f7a8ad0b30c42c6481ca79178c9b5490276a5ad7abf",
+      "value": "U2FsdGVkX1%2B%2BnjLTCTNolFe%2BaNVCnSdZ0Y%2BkrPQrRCo%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ad26364e1b59c284c36ccb5b8ee3ce0beff5f64d7b94663bbb64c12e7ed9057e",
+      "value": "U2FsdGVkX19Gzb0Eb2HssUyTklhb%2FX%2FW7jZv4%2BRAuko%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f2983bf72e26f6f23d6e77c2b8501a7502da44d0a2002cc4c5b9b1551d44a91f",
+      "value": "U2FsdGVkX19RLBqB9ovS4h8Ib08Pbj62atv8goJboZ8%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "8c60886f041b4dea9a78238f3086494d3722c5b05b7bf56e0fff40ef16799277",
+      "value": "U2FsdGVkX1%2BHolATrHxPgwzLVZvIepgLvrMKiNu7PtE%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "073c1634c496cdb649d1afe0a312bbb4b7e1741b271542e4a436c3b8824b1761",
+      "value": "U2FsdGVkX1%2F%2BfvnViUyjDk29DTeCcTjxEWQmX1Zu0u8%3D",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e3b89e9d33f88e523083d8b4436adcc3726c89e97fd3179a2e102d765d1b16ed",
+      "value": "U2FsdGVkX1%2F%2Bxxpdircw0tEYFZtOs%2BnEjudF0UVgftB%2FSrs39CSWqoPIr%2BA7eQ6W",
+      "domain": "testerp.paisalo.in",
+      "path": "/",
+      "expires": 1784195042,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://testerp.paisalo.in:8825",
+      "localStorage": [
+        {
+          "name": "LAST_PATH",
+          "value": "{\"value\":\"/hrms/EmpAttendence\",\"expiry\":1783590362452}"
+        },
+        {
+          "name": "cookiesAccepted",
+          "value": "true"
+        },
+        {
+          "name": "otpExpireTime",
+          "value": "1783590300951"
+        },
+        {
+          "name": "menuItems",
+          "value": "[{\"id\":1023,\"roleId\":0,\"pageMasterId\":1023,\"parentId\":0,\"userid\":1,\"title\":\"ABF\",\"icon\":\"Box\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2,\"roleId\":0,\"pageMasterId\":2,\"parentId\":0,\"userid\":1,\"title\":\"FI Processing\",\"icon\":\"FilePlus\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":3,\"roleId\":0,\"pageMasterId\":3,\"parentId\":0,\"userid\":1,\"title\":\"HRMS\",\"icon\":\"Activity\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":13,\"roleId\":0,\"pageMasterId\":13,\"parentId\":2,\"userid\":1,\"title\":\"Branch\",\"icon\":\"BarChart2\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":8,\"roleId\":0,\"pageMasterId\":8,\"parentId\":2,\"userid\":1,\"title\":\"Credit\",\"icon\":\"Activity\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2137,\"roleId\":0,\"pageMasterId\":2137,\"parentId\":2,\"userid\":1,\"title\":\"Mobile\",\"icon\":\"Smartphone\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2140,\"roleId\":0,\"pageMasterId\":2140,\"parentId\":3,\"userid\":1,\"title\":\"Attendence\",\"icon\":\"Calendar\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2038,\"roleId\":0,\"pageMasterId\":2038,\"parentId\":3,\"userid\":1,\"title\":\"Career \",\"icon\":\"Briefcase\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2179,\"roleId\":0,\"pageMasterId\":2179,\"parentId\":8,\"userid\":1,\"title\":\"Cam Generation\",\"icon\":\"FilePlus\",\"pageUrl\":\"credit/CamGeneration\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1013,\"roleId\":0,\"pageMasterId\":1013,\"parentId\":8,\"userid\":1,\"title\":\"Disbursement Sheet\",\"icon\":\"DownloadCloud\",\"pageUrl\":\"credit/DownloadDisbursementSheet\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1010,\"roleId\":0,\"pageMasterId\":1010,\"parentId\":8,\"userid\":1,\"title\":\"Fi Docs Upload\",\"icon\":\"FilePlus\",\"pageUrl\":\"credit/FiDocsUpload\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":9,\"roleId\":0,\"pageMasterId\":9,\"parentId\":8,\"userid\":1,\"title\":\"Index\",\"icon\":\"User\",\"pageUrl\":\"credit/FiIndex\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":16,\"roleId\":0,\"pageMasterId\":16,\"parentId\":13,\"userid\":1,\"title\":\"Dashboard\",\"icon\":\"BarChart2\",\"pageUrl\":\"branch/Dashboard\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1034,\"roleId\":0,\"pageMasterId\":1034,\"parentId\":13,\"userid\":1,\"title\":\"Group Master\",\"icon\":\"PieChart\",\"pageUrl\":\"branch/GroupAreaMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":14,\"roleId\":0,\"pageMasterId\":14,\"parentId\":13,\"userid\":1,\"title\":\"Post Sanction Documents\",\"icon\":\"Calculator\",\"pageUrl\":\"branch/PostSanctionDocuments\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1022,\"roleId\":0,\"pageMasterId\":1022,\"parentId\":13,\"userid\":1,\"title\":\"Requests For Docs Delete\",\"icon\":\"PenTool\",\"pageUrl\":\"branch/RequestForDocDelete\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2068,\"roleId\":0,\"pageMasterId\":2068,\"parentId\":1023,\"userid\":1,\"title\":\"Bank Details\",\"icon\":\"Landmark\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2017,\"roleId\":0,\"pageMasterId\":2017,\"parentId\":1023,\"userid\":1,\"title\":\"Dealers\",\"icon\":\"Building2\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2147,\"roleId\":0,\"pageMasterId\":2147,\"parentId\":1023,\"userid\":1,\"title\":\"Masters\",\"icon\":\"Home\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1024,\"roleId\":0,\"pageMasterId\":1024,\"parentId\":1023,\"userid\":1,\"title\":\"OEM\",\"icon\":\"LayoutDashboard\",\"pageUrl\":\"\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":1026,\"roleId\":0,\"pageMasterId\":1026,\"parentId\":1024,\"userid\":1,\"title\":\"Add OEM\",\"icon\":\"CopyPlus\",\"pageUrl\":\"abfmaster/oem\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2022,\"roleId\":0,\"pageMasterId\":2022,\"parentId\":1024,\"userid\":1,\"title\":\"View OEM\",\"icon\":\"ScanEye\",\"pageUrl\":\"Oem/getoemdetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2018,\"roleId\":0,\"pageMasterId\":2018,\"parentId\":2017,\"userid\":1,\"title\":\"Dealer Master\",\"icon\":\"FilePlus\",\"pageUrl\":\"abf/Dealer\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"\",\"pageShortName\":\"\"},{\"id\":2163,\"roleId\":0,\"pageMasterId\":2163,\"parentId\":2017,\"userid\":1,\"title\":\"DealerOemReq\",\"icon\":\"Wallet\",\"pageUrl\":\"abf/dealerOemReq\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2162,\"roleId\":0,\"pageMasterId\":2162,\"parentId\":2017,\"userid\":1,\"title\":\"Dealership Clone\",\"icon\":\"Calculator\",\"pageUrl\":\"abf/dealershipclone\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2063,\"roleId\":0,\"pageMasterId\":2063,\"parentId\":2017,\"userid\":1,\"title\":\"Mapping\",\"icon\":\"Navigation\",\"pageUrl\":\"abf/newcreatorwithnewcode\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2067,\"roleId\":0,\"pageMasterId\":2067,\"parentId\":2017,\"userid\":1,\"title\":\"Report\",\"icon\":\"FilePen\",\"pageUrl\":\"abf/casereport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2031,\"roleId\":0,\"pageMasterId\":2031,\"parentId\":2017,\"userid\":1,\"title\":\"View Dealer\",\"icon\":\"ScanEye\",\"pageUrl\":\"dealer/getdealerdetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2048,\"roleId\":0,\"pageMasterId\":2048,\"parentId\":2038,\"userid\":1,\"title\":\"Job Referrals\",\"icon\":\"Upload\",\"pageUrl\":\"hrms/JobReferrals\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2069,\"roleId\":0,\"pageMasterId\":2069,\"parentId\":2068,\"userid\":1,\"title\":\"Update Details\",\"icon\":\"History\",\"pageUrl\":\"abf/sendrequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2046,\"roleId\":0,\"pageMasterId\":2046,\"parentId\":2137,\"userid\":1,\"title\":\"Banner Posting \",\"icon\":\"Activity\",\"pageUrl\":\"abf/BannerPosting\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2044,\"roleId\":0,\"pageMasterId\":2044,\"parentId\":2137,\"userid\":1,\"title\":\"CSO Mapping \",\"icon\":\"Globe\",\"pageUrl\":\"abf/CSOMapping\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2139,\"roleId\":0,\"pageMasterId\":2139,\"parentId\":2137,\"userid\":1,\"title\":\"Mobile Update Req\",\"icon\":\"FileText\",\"pageUrl\":\"mobile/mobileupdatereq\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2143,\"roleId\":0,\"pageMasterId\":2143,\"parentId\":2140,\"userid\":1,\"title\":\"GetAttendence\",\"icon\":\"Calendar\",\"pageUrl\":\"hrms/GetAttendence\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null},{\"id\":2026,\"roleId\":0,\"pageMasterId\":2026,\"parentId\":2147,\"userid\":1,\"title\":\"Brand Master\",\"icon\":\"Activity\",\"pageUrl\":\"abf/brandmaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"\",\"pageShortName\":\"\"},{\"id\":2033,\"roleId\":0,\"pageMasterId\":2033,\"parentId\":2147,\"userid\":1,\"title\":\"Model Master\",\"icon\":\"Briefcase\",\"pageUrl\":\"abf/ModelMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"\",\"pageShortName\":\"\"},{\"id\":2035,\"roleId\":0,\"pageMasterId\":2035,\"parentId\":2147,\"userid\":1,\"title\":\"Submodel Master\",\"icon\":\"Truck\",\"pageUrl\":\"abf/SubmodelMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"\",\"pageShortName\":\"\"}]"
+        }
+      ]
+    }
+  ]
+}

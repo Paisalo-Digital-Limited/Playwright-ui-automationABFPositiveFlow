@@ -1,0 +1,187 @@
+{
+  "cookies": [
+    {
+      "name": "mpin_enabled",
+      "value": "true",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1795264164,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mpin_user_id",
+      "value": "11564",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1795264164,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dcd1d5223f73b3a965c07e3ff5dbee3eedcfedb806686a05b9b3868a2c3d6d50",
+      "value": "U2FsdGVkX18iqXm4%2FVNWul49eT7GAX7YVh6e3Ykeam0%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "c17f19632b45a636c7d2600fd90d755b6ba8941a5ea9a370b8b007d72d20c320",
+      "value": "U2FsdGVkX18tpSHb8KY%2FYGX0fxA78Ea77t1z3DTskgI%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "b27ccc592502dd9d232092c604fa222a00546ec154e65d14c6ddb89a11879c3f",
+      "value": "U2FsdGVkX1%2FcotQ64uBa%2BqZ4kBrzWPFACokjq%2FnLaIA%2B07ErUMDHqzTAo2Jd17f642VfIGmDgROPsb60vu4%2BcZL9o%2FHb08i4rD4onDJTVF%2B7M4N1kf%2BUjNB%2FxCjVd8Ft%2BuCnnHFhWKYM8nTwChrPiOZGaNEuwSgGJemRliY3laeEwBnSB3I%2Fh1cOGTjOiqyrfrjkoe%2Fad5ZYfMyEBCugoeOTIHB%2FmeCtpNiyvbKg7E%2FMbCebXK6p804TFLfZ%2BaNkZILsqfA3416b%2FPhCW87%2FfuxaPq6je0MoyUunkgzJQTFYb%2Fe5mEhP6h%2FiVx0VFsI%2BmSb2ThDxb54KgVSIO3cYG7aarGBGOECvex%2BqqXZLBFF9yfwLPJlLdMJCKoevWd0pPCGI11hPpaTRJEeJ9LcmHgrZwSEibXCBA4bA%2BweRWfl%2F0yOEQL%2Fxyp2GkYPI2fMU40VjiCgoFnsHvZoPeaMiUcwf5eQwFxYyeB5JoeWGZegbW9q63UVtj9kWyfcCYwQsjUEubjyktJshyeXmVWfMLviB%2BAnPb9%2BNnFauVvz3Ky6DgdU6YPx%2FWY%2FcnNfcHroYzCRw417kvGLU5K8lVzn8woZ0MrNNelodwaPj59rVHr9scXjyudFSwaLANfaV8g8RtMExQckRk%2FqV04UEqv4Ssbp8aF0jphIp3TXvctw1tItpC8arH7lxsko2IXyTlDwyKNJyxO6JxQ%2FA2m%2FZcLxHwbS2OqSc3%2FvqLZHFwddJISFRlZ%2F6Djcb0mKG23ecmyTLLqyDBDQ%2FIPJWgqVoQXTaExCz9GUtAglcYCh1ewrKvO7mUFbujGxRsIyCH1vwf8fZW5akOztdJLKYTN%2BlVcboI8Ji9MF43IBnA345kfjRn0A%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e1eae9e373ba62a80cdbd4422fc002553447aeb38fdb8dbf511a52d3e8c5e417",
+      "value": "U2FsdGVkX187c0IKWfIs%2BLuEw6fN1xJGVPP%2FBS0T6V4BA5FywkM1OJ%2BE9yrgMwzdifQrEGy%2F0w8bejm%2BlEPeq13CPbN8w9I6mYJkI%2BTjY1Fnd8Bld7n6SU8p%2FzeHg23Ru3vTPKnIjUGjM28BqDQLCQ%3D%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "20c55b5b17e896f6e08450803c010949b3eccffe605575c64cba0aa13622bd05",
+      "value": "U2FsdGVkX19CUJ9a8wMl5lWJwVxp79HE4s40AyzBPoA%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "fb4e67e9fdc97adf435cd51d7c2c13ff03b616a544ece6bdf0cb2b22a9d70515",
+      "value": "U2FsdGVkX18Hwr4XIN6sykqcS17kJsVBjriiNjrgrMk%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "63ee7d7dae8cde6d76acea89ebbbd53fbcd182337d699924679249c193bd2477",
+      "value": "U2FsdGVkX1%2Fgm%2FRWBaXFMnfSxbNMb6%2FZg%2BOtfRxSkG0%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e49c330d257d3e0c772df25cec7abe50bdac558000a93955875ccf9afce9f407",
+      "value": "U2FsdGVkX19Etx3dW1%2FYZWDRKZEHJUQVHwINKShFCkI%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f36fb635fc3e88fad4e86f7a8ad0b30c42c6481ca79178c9b5490276a5ad7abf",
+      "value": "U2FsdGVkX18pWugaz2e%2B0gTCCeVnNfgKfjEl6U3J%2BAw%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ad26364e1b59c284c36ccb5b8ee3ce0beff5f64d7b94663bbb64c12e7ed9057e",
+      "value": "U2FsdGVkX1%2FSDAqsLfRR3YWgDuHzwCl4PJJKpGZdUt8%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "f2983bf72e26f6f23d6e77c2b8501a7502da44d0a2002cc4c5b9b1551d44a91f",
+      "value": "U2FsdGVkX18ClFIL%2Bs0A2llc1qkby%2F5SCz9TiydWn4c%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "8c60886f041b4dea9a78238f3086494d3722c5b05b7bf56e0fff40ef16799277",
+      "value": "U2FsdGVkX1%2F70zzjFWb5rR3jYHAxGz%2FulfTa8Lz8dNE%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "073c1634c496cdb649d1afe0a312bbb4b7e1741b271542e4a436c3b8824b1761",
+      "value": "U2FsdGVkX198fg0qPjQVp28L8QOO6Np3d78194Zmqto%3D",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "e3b89e9d33f88e523083d8b4436adcc3726c89e97fd3179a2e102d765d1b16ed",
+      "value": "U2FsdGVkX18AaD%2B1lFV0ymuSypLjLZgQ1reUkj4T8wijujRfvUZAWeXv4Y6h81V9",
+      "domain": "api.paisalo.net",
+      "path": "/",
+      "expires": 1793276964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://api.paisalo.net",
+      "localStorage": [
+        {
+          "name": "LAST_PATH",
+          "value": "{\"value\":\"/hrms/EmpAttendence\",\"expiry\":1792672285319}"
+        },
+        {
+          "name": "cookiesAccepted",
+          "value": "true"
+        },
+        {
+          "name": "otpExpireTime",
+          "value": "1792672222558"
+        },
+        {
+          "name": "menuItems",
+          "value": "[{\"id\":1023,\"roleId\":0,\"pageMasterId\":1023,\"parentId\":0,\"userid\":1,\"title\":\"ABF\",\"icon\":\"Box\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1,\"roleId\":0,\"pageMasterId\":1,\"parentId\":0,\"userid\":1,\"title\":\"Dashboard\",\"icon\":\"LayoutDashboard\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/1/PDLpage_9178fb97-7511-4050-887a-f62160b61268.pdf\"},{\"id\":2,\"roleId\":0,\"pageMasterId\":2,\"parentId\":0,\"userid\":1,\"title\":\"FI Processing\",\"icon\":\"FilePlus\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/2/PDLpage_e44ed79f-bcb9-4b11-aeb0-3dddfab65d30.mp4\"},{\"id\":3,\"roleId\":0,\"pageMasterId\":3,\"parentId\":0,\"userid\":1,\"title\":\"HRMS\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":\"/PageVideoERP/3/PDLpage_0bc6d9d1-a7c1-4b04-8c87-b6cb661369ac.mp4\"},{\"id\":1025,\"roleId\":0,\"pageMasterId\":1025,\"parentId\":0,\"userid\":1,\"title\":\"Management\",\"icon\":\"Box\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2014,\"roleId\":0,\"pageMasterId\":2014,\"parentId\":1,\"userid\":1,\"title\":\"All Reports\",\"icon\":\"FileText\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":5,\"roleId\":0,\"pageMasterId\":5,\"parentId\":1,\"userid\":1,\"title\":\"Masters\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1037,\"roleId\":0,\"pageMasterId\":1037,\"parentId\":2,\"userid\":1,\"title\":\"Accounts\",\"icon\":\"Calculator\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":13,\"roleId\":0,\"pageMasterId\":13,\"parentId\":2,\"userid\":1,\"title\":\"Branch\",\"icon\":\"BarChart2\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":8,\"roleId\":0,\"pageMasterId\":8,\"parentId\":2,\"userid\":1,\"title\":\"Credit\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2137,\"roleId\":0,\"pageMasterId\":2137,\"parentId\":2,\"userid\":1,\"title\":\"Mobile\",\"icon\":\"Smartphone\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2038,\"roleId\":0,\"pageMasterId\":2038,\"parentId\":3,\"userid\":1,\"title\":\"Career \",\"icon\":\"Briefcase\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2153,\"roleId\":0,\"pageMasterId\":2153,\"parentId\":3,\"userid\":1,\"title\":\"Improvement Plan\",\"icon\":\"UserMinus2\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2266,\"roleId\":0,\"pageMasterId\":2266,\"parentId\":3,\"userid\":1,\"title\":\"Promotion\",\"icon\":\"Activity\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2265,\"roleId\":0,\"pageMasterId\":2265,\"parentId\":5,\"userid\":1,\"title\":\"Creator Mapping\",\"icon\":\"Building2\",\"pageUrl\":\"Masters/MapCreatorToUser\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2179,\"roleId\":0,\"pageMasterId\":2179,\"parentId\":8,\"userid\":1,\"title\":\"Cam Generation\",\"icon\":\"FilePlus\",\"pageUrl\":\"credit/CamGeneration\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1013,\"roleId\":0,\"pageMasterId\":1013,\"parentId\":8,\"userid\":1,\"title\":\"Disbursement Sheet\",\"icon\":\"DownloadCloud\",\"pageUrl\":\"credit/DownloadDisbursementSheet\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1010,\"roleId\":0,\"pageMasterId\":1010,\"parentId\":8,\"userid\":1,\"title\":\"Fi Docs Upload\",\"icon\":\"FilePlus\",\"pageUrl\":\"credit/FiDocsUpload\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":9,\"roleId\":0,\"pageMasterId\":9,\"parentId\":8,\"userid\":1,\"title\":\"Index\",\"icon\":\"User\",\"pageUrl\":\"credit/FiIndex\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2095,\"roleId\":0,\"pageMasterId\":2095,\"parentId\":8,\"userid\":1,\"title\":\"RC EMI Receipt\",\"icon\":\"DownloadCloud\",\"pageUrl\":\"credit/RcEmiReceipt\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2193,\"roleId\":0,\"pageMasterId\":2193,\"parentId\":13,\"userid\":1,\"title\":\"Create Mandate\",\"icon\":\"CreditCard\",\"pageUrl\":\"branch/CreateMandate\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":16,\"roleId\":0,\"pageMasterId\":16,\"parentId\":13,\"userid\":1,\"title\":\"Dashboard\",\"icon\":\"BarChart2\",\"pageUrl\":\"branch/Dashboard\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1021,\"roleId\":0,\"pageMasterId\":1021,\"parentId\":13,\"userid\":1,\"title\":\"Fi Docs Delete\",\"icon\":\"FileText\",\"pageUrl\":\"branch/FiDocDelete\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2136,\"roleId\":0,\"pageMasterId\":2136,\"parentId\":13,\"userid\":1,\"title\":\"Fi Guarantor\",\"icon\":\"Calculator\",\"pageUrl\":\"fi/figuarantor\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2202,\"roleId\":0,\"pageMasterId\":2202,\"parentId\":13,\"userid\":1,\"title\":\"FI Nominee Details\",\"icon\":\"UserPlus\",\"pageUrl\":\"branch/FiNomineeDetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"On this page, you can view nominee details case-wise. You can also add a nominee if one is not available.\",\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1034,\"roleId\":0,\"pageMasterId\":1034,\"parentId\":13,\"userid\":1,\"title\":\"Group Master\",\"icon\":\"PieChart\",\"pageUrl\":\"branch/GroupAreaMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":14,\"roleId\":0,\"pageMasterId\":14,\"parentId\":13,\"userid\":1,\"title\":\"Post Sanction Documents\",\"icon\":\"Calculator\",\"pageUrl\":\"branch/PostSanctionDocuments\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2190,\"roleId\":0,\"pageMasterId\":2190,\"parentId\":13,\"userid\":1,\"title\":\"QR Code Generation\",\"icon\":\"Receipt\",\"pageUrl\":\"branch/qrcodegeneration\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1022,\"roleId\":0,\"pageMasterId\":1022,\"parentId\":13,\"userid\":1,\"title\":\"Requests For Docs Delete\",\"icon\":\"PenTool\",\"pageUrl\":\"branch/RequestForDocDelete\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2068,\"roleId\":0,\"pageMasterId\":2068,\"parentId\":1023,\"userid\":1,\"title\":\"Bank Details\",\"icon\":\"Landmark\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2017,\"roleId\":0,\"pageMasterId\":2017,\"parentId\":1023,\"userid\":1,\"title\":\"Dealers\",\"icon\":\"Building2\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2146,\"roleId\":0,\"pageMasterId\":2146,\"parentId\":1023,\"userid\":1,\"title\":\"Documents\",\"icon\":\"FileText\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2147,\"roleId\":0,\"pageMasterId\":2147,\"parentId\":1023,\"userid\":1,\"title\":\"Masters\",\"icon\":\"Home\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1024,\"roleId\":0,\"pageMasterId\":1024,\"parentId\":1023,\"userid\":1,\"title\":\"OEM\",\"icon\":\"LayoutDashboard\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2097,\"roleId\":0,\"pageMasterId\":2097,\"parentId\":1023,\"userid\":1,\"title\":\"TVR \",\"icon\":\"Archive\",\"pageUrl\":null,\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1026,\"roleId\":0,\"pageMasterId\":1026,\"parentId\":1024,\"userid\":1,\"title\":\"Add OEM\",\"icon\":\"CopyPlus\",\"pageUrl\":\"abfmaster/oem\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2022,\"roleId\":0,\"pageMasterId\":2022,\"parentId\":1024,\"userid\":1,\"title\":\"View OEM\",\"icon\":\"ScanEye\",\"pageUrl\":\"Oem/getoemdetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1027,\"roleId\":0,\"pageMasterId\":1027,\"parentId\":1025,\"userid\":1,\"title\":\"Expense Management\",\"icon\":\"DollarSign\",\"pageUrl\":\"master/ExpenseManagement\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":1028,\"roleId\":0,\"pageMasterId\":1028,\"parentId\":1027,\"userid\":1,\"title\":\"Expense Request\",\"icon\":\"DollarSign\",\"pageUrl\":\"Management/Expense\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2201,\"roleId\":0,\"pageMasterId\":2201,\"parentId\":1037,\"userid\":1,\"title\":\"Get QR Payment Logs\",\"icon\":\"FileMinus\",\"pageUrl\":\"accounts/GetQRPaymentLogs\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"This page is used to download QR payment logs, and users can also upload the RC for missing QR payments.\",\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2197,\"roleId\":0,\"pageMasterId\":2197,\"parentId\":2014,\"userid\":1,\"title\":\"Qr Payment Report\",\"icon\":\"FileText\",\"pageUrl\":\"reports/QrPaymentReport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":\"Report for all QR installments and mandate payments.\",\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2018,\"roleId\":0,\"pageMasterId\":2018,\"parentId\":2017,\"userid\":1,\"title\":\"Dealer Master\",\"icon\":\"Building2\",\"pageUrl\":\"abf/Dealer\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2163,\"roleId\":0,\"pageMasterId\":2163,\"parentId\":2017,\"userid\":1,\"title\":\"Dealer Oem Request\",\"icon\":\"Wallet\",\"pageUrl\":\"abf/dealerOemRequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2162,\"roleId\":0,\"pageMasterId\":2162,\"parentId\":2017,\"userid\":1,\"title\":\"Dealership Clone\",\"icon\":\"Calculator\",\"pageUrl\":\"abf/dealershipclone\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2063,\"roleId\":0,\"pageMasterId\":2063,\"parentId\":2017,\"userid\":1,\"title\":\"Mapping\",\"icon\":\"Navigation\",\"pageUrl\":\"abf/newcreatorwithnewcode\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2067,\"roleId\":0,\"pageMasterId\":2067,\"parentId\":2017,\"userid\":1,\"title\":\"Report\",\"icon\":\"FilePen\",\"pageUrl\":\"abf/casereport\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2031,\"roleId\":0,\"pageMasterId\":2031,\"parentId\":2017,\"userid\":1,\"title\":\"View Dealer\",\"icon\":\"ScanEye\",\"pageUrl\":\"dealer/getdealerdetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2048,\"roleId\":0,\"pageMasterId\":2048,\"parentId\":2038,\"userid\":1,\"title\":\"Job Referrals\",\"icon\":\"Upload\",\"pageUrl\":\"hrms/JobReferrals\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2069,\"roleId\":0,\"pageMasterId\":2069,\"parentId\":2068,\"userid\":1,\"title\":\"Update Details\",\"icon\":\"History\",\"pageUrl\":\"abf/sendrequest\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2098,\"roleId\":0,\"pageMasterId\":2098,\"parentId\":2097,\"userid\":1,\"title\":\"Leads\",\"icon\":\"Gift\",\"pageUrl\":\"Abf/TvrDetails\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2046,\"roleId\":0,\"pageMasterId\":2046,\"parentId\":2137,\"userid\":1,\"title\":\"Banner Posting \",\"icon\":\"Activity\",\"pageUrl\":\"abf/BannerPosting\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2139,\"roleId\":0,\"pageMasterId\":2139,\"parentId\":2137,\"userid\":1,\"title\":\"Mobile Update Req\",\"icon\":\"FileText\",\"pageUrl\":\"mobile/mobileupdatereq\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2073,\"roleId\":0,\"pageMasterId\":2073,\"parentId\":2146,\"userid\":1,\"title\":\"PDD\",\"icon\":\"HandCoins\",\"pageUrl\":\"abf/pdddocs\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2025,\"roleId\":0,\"pageMasterId\":2025,\"parentId\":2146,\"userid\":1,\"title\":\"Product Master\",\"icon\":\"Activity\",\"pageUrl\":\"abf/createproducts\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2026,\"roleId\":0,\"pageMasterId\":2026,\"parentId\":2147,\"userid\":1,\"title\":\"Brand Master\",\"icon\":\"Activity\",\"pageUrl\":\"abf/brandmaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2035,\"roleId\":0,\"pageMasterId\":2035,\"parentId\":2147,\"userid\":1,\"title\":\"Model Master\",\"icon\":\"Truck\",\"pageUrl\":\"abf/ModelMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2033,\"roleId\":0,\"pageMasterId\":2033,\"parentId\":2147,\"userid\":1,\"title\":\"Submodel Master\",\"icon\":\"Briefcase\",\"pageUrl\":\"abf/SubmodelMaster\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2213,\"roleId\":0,\"pageMasterId\":2213,\"parentId\":2153,\"userid\":1,\"title\":\"PIP Employee\",\"icon\":\"Activity\",\"pageUrl\":\"HRMS/Employeepip\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null},{\"id\":2268,\"roleId\":0,\"pageMasterId\":2268,\"parentId\":2266,\"userid\":1,\"title\":\"Employee Promotion\",\"icon\":\"UserPlus\",\"pageUrl\":\"hrms/Promotion\",\"isDisplayHelpFile\":false,\"isDisplayShortName\":false,\"helpFilePDF\":null,\"pageDesc\":null,\"pageShortName\":null,\"videoPath\":null,\"videoUrl\":null}]"
+        }
+      ]
+    }
+  ]
+}

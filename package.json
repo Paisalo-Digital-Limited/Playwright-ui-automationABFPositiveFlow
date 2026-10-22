@@ -1,0 +1,26 @@
+{
+  "name": "playwright-erp-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report",
+    "codegen": "npx playwright codegen",
+    "check-specs": "node check-spec-coverage.js",
+    "test:setup": "ts-node tests/setup/login.setup.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/mssql": "^9.1.7",
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.23.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "mssql": "^11.0.1",
+    "pg": "^8.23.1",
+    "playwright": "^1.53.2"
+  }
+}
