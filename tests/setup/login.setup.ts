@@ -1,6 +1,7 @@
 import { ChromiumBrowser } from 'playwright';
 import { expect } from 'playwright/test';
 
+
 async function loginAndSave(browser: ChromiumBrowser, email: string, otp: string, password: string, mpin: string, storagePath: string, roleName: string): Promise<void> {
   console.log('==============================================');
   console.log(`Starting login for: ${roleName}`);
@@ -17,7 +18,7 @@ async function loginAndSave(browser: ChromiumBrowser, email: string, otp: string
     console.log(`Opening ERP URL: ${erpUrl}`);
     await page.goto(erpUrl, { waitUntil: 'domcontentloaded', timeout: 90000 });
     console.log(`Current URL: ${page.url()}`);
-    await page.screenshot({ path: 'tests/setup/beforeAllow.png', fullPage: true });
+    //await page.screenshot({ path: 'tests/setup/beforeAllow.png', fullPage: true });
 
     // HANDLE BROWSER LOCATION / ALLOW BUTTON
     const allowButton = page.getByRole('button', { name: 'Allow', exact: true });
@@ -38,7 +39,7 @@ async function loginAndSave(browser: ChromiumBrowser, email: string, otp: string
     console.log(`Employee code/email filled for ${roleName}`);
     await userInput.press('Enter');
     console.log(`Login request submitted for ${roleName}`);
-    await page.screenshot({ path: 'tests/setup/beforeOtpFill.png', fullPage: true });
+    //await page.screenshot({ path: 'tests/setup/beforeOtpFill.png', fullPage: true });
 
     // OPTIONAL TOAST / ALERT
     const toast = page.getByRole('alert');
@@ -105,7 +106,7 @@ async function loginAndSave(browser: ChromiumBrowser, email: string, otp: string
     }
 
     // SCREENSHOT AFTER LOGIN
-    await page.screenshot({ path: 'tests/setup/afterEnterPassword.png', fullPage: true });
+    //await page.screenshot({ path: 'tests/setup/afterEnterPassword.png', fullPage: true });
     console.log(`Waiting for HRMS page for ${roleName}...`);
 
     // IMPORTANT: DO NOT USE networkidle HERE - ERP app continuously makes background requests, so networkidle can timeout

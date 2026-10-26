@@ -56,12 +56,12 @@ export default defineConfig({
 
 //-------- Projects for 1 modules of ERP --------//
 
-  // projects: [
-  //   {
-  //     name: 'ABF Module Create Product',
-  //     testDir: './tests/e2e/ABFModule/01-Documents_SubModule',
-  //     timeout: 60 * 1000,
-  //   },
+  projects: [
+    {
+      name: 'ABF Module Create Product',
+      testDir: './tests/e2e/ABFModule/01-Documents_SubModule',
+      timeout: 60 * 1000,
+    },
 
   //   {
   //     name: 'ABF Module All Masters',
@@ -69,6 +69,6 @@ export default defineConfig({
   //     timeout: 60 * 1000,
   //   },
     
-  // ],
+  ],
   
 });

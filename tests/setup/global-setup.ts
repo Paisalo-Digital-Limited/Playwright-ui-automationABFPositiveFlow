@@ -9,7 +9,7 @@ const delay = (ms: number) =>
 export default async function globalSetup() {
 
   const browser = await chromium.launch({
-    headless: true,
+    headless: false,
   });
   
   await loginAndSave(
@@ -27,8 +27,8 @@ export default async function globalSetup() {
   await loginAndSave(
     browser,
     process.env.ERP_EMAIL_HOD ?? '',
-    process.env.ERP_OTP_HOD ?? '',
-    process.env.ERP_PASSWORD_HOD ?? '',
+    process.env.ERP_OTP ?? '',
+    process.env.ERP_ADMIN_PASSWORD ?? '',
     process.env.ERP_HOD_MPIN ?? '',
     'tests/storageState/HOD.json',
     'HOD'
@@ -63,9 +63,9 @@ export default async function globalSetup() {
   await loginAndSave(
     browser,
     process.env.ERP_EMAIL_COORDINATOR ?? '',
-    process.env.ERP_OTP_COORDINATOR ?? '',
-    process.env.ERP_PASSWORD_COORDINATOR ?? '',
-    process.env.ERP_COORDINATOR_MPIN ?? '',
+    process.env.ERP_OTP ?? '',
+    process.env.ERP_ADMIN_PASSWORD ?? '',
+    process.env.ERP_AUTO_MPIN ?? '',
     'tests/storageState/Coordinator.json',
     'Coordinator'
   );
@@ -75,9 +75,9 @@ export default async function globalSetup() {
   await loginAndSave(
     browser,
     process.env.ERP_EMAIL_OemAdmin ?? '',
-    process.env.ERP_OTP_OemAdmin ?? '',
-    process.env.ERP_PASSWORD_OemAdmin ?? '',
-    process.env.ERP_OemAdmin_MPIN ?? '',
+    process.env.ERP_OTP ?? '',
+    process.env.ERP_ADMIN_PASSWORD ?? '',
+    process.env.ERP_AUTO_MPIN ?? '',
     'tests/storageState/OemAdmin.json',
     'OemAdmin'
   );
